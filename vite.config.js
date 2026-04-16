@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "/project_swftware_2_e-Commerce/",
 })
